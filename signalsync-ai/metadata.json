@@ -1,0 +1,6 @@
+{
+  "name": "SignalSync AI",
+  "description": "SignalSync AI converts business signals into actionable sales opportunities using AI-powered workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
